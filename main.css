@@ -35,14 +35,14 @@ body{
   border-style: dashed;
 }
 .entry .small{
-  width: 20vw;
+  width: 70px;
   padding: 0px 35%;
 }
 .entry .medium{
-  width: 40vw;
+  width: 170px;
   padding: 0px 20%;
 }
 .entry .big{
-  width: 60vw;
+  width: 270px;
   padding: 0px 5%;
 }
