@@ -1,0 +1,48 @@
+body{
+  background-color: #F2F2F2;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.title{
+  font-size: 30px;
+  text-align: center;
+  font-family: 'Supermercado One', cursive;
+  text-decoration: underline;
+}
+.entry{
+  border-style: dashed;
+  border-spacing: 10px;
+  border-color: #555931;
+  color: black;
+  font-family: 'EB Garamond', serif;
+  margin: 5% 10%;
+  padding: 20px;
+  border-radius: 20px;
+  background-color: #D98C5F;
+  width: 450px;
+}
+.entry h2{
+  font-weight: lighter;
+  font-style: italic;
+  text-align: right;
+  color: white;
+  background-color: #555931;
+  padding: 10px;
+  border-radius: 30px;
+  border-style: dashed;
+}
+.entry .small{
+  width: 20vw;
+  padding: 0px 35%;
+}
+.entry .medium{
+  width: 40vw;
+  padding: 0px 20%;
+}
+.entry .big{
+  width: 60vw;
+  padding: 0px 5%;
+}
